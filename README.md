@@ -17,11 +17,13 @@ Your VirtualBox is installed and ready to use!
 # Step 2:
 Now, go to Machine > New: – Write the Name you want for your system, for example: Linux Mint – Select Type: Linux.
 ![image](https://github.com/karthika28112004/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/128035087/ef836573-611a-4338-916d-88ef4ef6d1de)
-– Select Version: Ubuntu. 
+– Select Version: Ubuntu.
+
 Click Next>:
 # Step 3:
 Select the amount of RAM
 ![image](https://github.com/karthika28112004/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/128035087/bc5c33ef-c177-4a80-b15d-6fa1d439b4b3)
+
 Click Next>: 
 # Step 4:
 Select hard disk setting: – Choose ‘Create a virtual hard drive Now’, in order to make a virtual disk space.
@@ -30,6 +32,7 @@ Select hard disk setting: – Choose ‘Create a virtual hard drive Now’, in o
 ![image](https://github.com/karthika28112004/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/128035087/94047317-5753-48d1-9d6d-99e9c558672a)
 Click Next>: 
 ![image](https://github.com/karthika28112004/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/128035087/0682ad9c-7619-45d3-8656-79544e8f05b1)
+
 Click Finish. 
 # Step 5:
 Choose the downloaded Linux ISO file: – Click Start to launch your system. 
